@@ -6,6 +6,9 @@ O conjunto de dados utilizado nesta análise foi obtido do Kaggle e contém info
 ## Fonte do dataset
 - [Base Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download)
 
+## Video da Apresentação
+- [Link youtube](https://youtu.be/IIlg6cYizDc)
+
 ## Introdução  
 O Airbnb se tornou uma plataforma popular para viajantes em todo o mundo que buscam acomodações únicas e autênticas. Com milhares de listagens em cidades cosmopolitas como Nova York, analisar os dados do Airbnb pode fornecer insights valiosos para viajantes, proprietários de imóveis e pesquisadores. Neste projeto, conduziremos uma análise exploratória de dados para entender melhor o mercado de aluguel de curto prazo na cidade de Nova York e identificar padrões e tendências relevantes.
 
