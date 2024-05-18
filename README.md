@@ -73,11 +73,11 @@ Correlação entre as variaveis númericas
 ![image](https://github.com/contateobrito/Projeto_Aplicado_I/assets/79146445/b1fb8087-36d5-43c5-9aa3-c483c29e7dbf)  
 
 A análise utilizada foi de Regressão Linear. O modelo deve inferir valores de diárias para novas empreendimento com base no bairro e tipo de alocação. No entanto, após termos separado a base, treinamento e teste, e feito todo o procedimento adequado, deparou-se com um MSE, muito alto. Tornando inviável o a utilização do modelo.
-A partir disso, será avaliado o motivo, a seguir possíveis motivos listados.
-•	Modelo inadequado: O modelo de regressão linear pode não ser apropriado para os dados em questão. Pode ser necessário explorar modelos mais complexos ou técnicas de modelagem diferentes.
-•	Dados de entrada inadequados: Os preditores podem não estar capturando adequadamente a relação com a variável de resposta. Talvez seja necessário considerar outros preditores ou transformações nos dados.
-•	Problemas de escala: Se os preditores estiverem em diferentes escalas, isso pode afetar a performance do modelo. Normalmente, é uma boa prática padronizar ou normalizar os dados antes de ajustar um modelo de regressão.
-•	Presença de outliers: Outliers nos dados podem distorcer o ajuste do modelo e aumentar o MSE. É importante examinar os dados em busca de valores atípicos e considerar maneiras de lidar com eles, como remoção ou transformação.
-Overfitting ou underfitting: O modelo pode estar sofrendo de overfitting (ajuste excessivo) ou underfitting (ajuste insuficiente). Overfitting ocorre quando o modelo se ajusta muito bem aos dados de treinamento, mas não generaliza bem para novos dados. Underfitting ocorre quando o modelo é muito simples para capturar a relação nos dados.
+A partir disso, será avaliado o motivo, a seguir possíveis motivos listados.  
+•	Modelo inadequado: O modelo de regressão linear pode não ser apropriado para os dados em questão. Pode ser necessário explorar modelos mais complexos ou técnicas de modelagem diferentes.  
+•	Dados de entrada inadequados: Os preditores podem não estar capturando adequadamente a relação com a variável de resposta. Talvez seja necessário considerar outros preditores ou transformações nos dados.  
+•	Problemas de escala: Se os preditores estiverem em diferentes escalas, isso pode afetar a performance do modelo. Normalmente, é uma boa prática padronizar ou normalizar os dados antes de ajustar um modelo de regressão.  
+•	Presença de outliers: Outliers nos dados podem distorcer o ajuste do modelo e aumentar o MSE. É importante examinar os dados em busca de valores atípicos e considerar maneiras de lidar com eles, como remoção ou transformação.  
+Overfitting ou underfitting: O modelo pode estar sofrendo de overfitting (ajuste excessivo) ou underfitting (ajuste insuficiente). Overfitting ocorre quando o modelo se ajusta muito bem aos dados de treinamento, mas não generaliza bem para novos dados. Underfitting ocorre quando o modelo é muito simples para capturar a relação nos dados.  
 Diante dos valores apresentados não foi possível inferir e comprovar nossas hipóteses a respeitos do dataset em questão. Pois destaca-se a ausência de informações pertinentes como: histórico de alocações, avaliação dos locais e descrição dos locais.
 
